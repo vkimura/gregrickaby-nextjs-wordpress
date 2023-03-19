@@ -1,6 +1,6 @@
 # Next.js + WordPress
 
-💀 It's headless WordPress! - <https://nextjswp.com>
+It's headless WordPress! - <https://nextjswp.com>
 
 ## Features
 
